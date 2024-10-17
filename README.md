@@ -50,7 +50,7 @@ while True:
      print("MAC Address",s.recv(1024).decode())
 
 ```
-## OUPUT - ARP
+## OUTPUT - ARP
 
 ![ARP](Ex-2c(ARP).png)
 
@@ -84,7 +84,7 @@ while True:
     
 ```
 
-## OUPUT -RARP
+## OUTPUT - RARP
 
 ![RARP](Ex-2c(RARP).png)
 
